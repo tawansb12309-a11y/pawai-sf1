@@ -1,1 +1,51 @@
-# pawai-sf1
+# pawai-sf1<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>กรมรบพิเศษที่ ๑ · 1ST SPECIAL FORCES</title>
+</head>
+<body>
+    <header>
+        <h1>กรมรบพิเศษที่ ๑</h1>
+        <h2>1ST SPECIAL FORCES</h2>
+        <nav>
+            <ul>
+                <li><a href="#home">หน้าหลัก</a></li>
+                <li><a href="#history">ประวัติหน่วย</a></li>
+                <li><a href="#missions">ภารกิจ</a></li>
+                <li><a href="#news">ข่าวสาร</a></li>
+                <li><a href="#contact">ติดต่อ</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="hero">
+            <img src="hero.jpg" alt="1ST SPECIAL FORCES">
+            <h3>ROYAL THAI ARMY · SPECIAL FORCES COMMAND · ลพบุรี</h3>
+            <h4>กรมรบพิเศษที่ ๑ ค่ายวชิราลงกรณ์ (พลร่มป่าหวาย)</h4>
+        </section>
+        <section id="history">
+            <h2>ประวัติหน่วย</h2>
+            <p>กรมรบพิเศษที่ ๑ ยินดีต้อนรับ</p>
+        </section>
+        <section id="news">
+            <h2>ข่าวสาร</h2>
+            <ul>
+                <li>ฝึกทหารใหม่ ผลัดที่ 1/69</li>
+                <li>BOOTCAMP 169 · ค่ายวชิราลงกรณ์</li>
+                <li>ข่าวประชาสัมพันธ์</li>
+            </ul>
+        </section>
+        <section id="stats">
+            <h2>SF · SPECIAL FORCES</h2>
+            <p><strong>71+</strong> ปีที่สถาปนา</p>
+            <p><strong>24/7</strong> พร้อมปฏิบัติการ</p>
+        </section>
+    </main>
+    <footer>
+        <p>กรมรบพิเศษที่ ๑ · ค่ายวชิราลงกรณ์</p>
+        <p>© ๒๕๖๘ · PDPA · นโยบายคุกกี้</p>
+    </footer>
+</body>
+</html>
